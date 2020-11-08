@@ -2,7 +2,7 @@
 
 Practicing advanced Redux middleware concepts.
 
-###Getting Started###
+### Getting Started ###
 
 ```
 	$ npm install
