@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# redux-middlewares-practice
 
 Practicing advanced Redux middleware concepts.
 
